@@ -6,3 +6,4 @@ Creating a new branch is quick AND simple.
 test
 test no a fast merge
 test issue
+let's go
